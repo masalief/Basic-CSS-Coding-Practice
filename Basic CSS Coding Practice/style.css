@@ -1,0 +1,204 @@
+.container {
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    background-color: Gainsboro;
+}
+
+.header {
+    padding: 1px;
+}
+
+.header ul li {
+    display: inline-block;
+    margin-right: 1px;
+    margin-top: -100px;
+}
+
+.header a {
+    text-decoration: none;
+    padding: 5px;
+    color: grey;
+}
+
+.header a:hover {
+    text-decoration: none;
+    background-color: white;
+    color: black;
+}
+
+.wayang {
+    margin-left: 400px;
+    margin-top: 20px;
+    height: 600px;
+    width: 450px;
+    background-image: url(img/wayang.png);
+    background-position: -479px 850px;
+    border: 3px solid;
+    border-radius: 30px;
+}
+
+.satu {
+    width: 50px;
+    height: 50px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    margin-left: 345px;
+    margin-top: -575px;
+}
+
+.dua {
+    width: 50px;
+    height: 50px;
+    background-color: greenyellow;
+    border-radius: 5px;
+    margin-left: 345px;
+    margin-top: 73px;
+}
+
+.tiga {
+    width: 50px;
+    height: 50px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    margin-left: 345px;
+    margin-top: 73px;
+}
+
+.empat {
+    width: 50px;
+    height: 50px;
+    background-color: mediumturquoise;
+    border-radius: 5px;
+    margin-left: 345px;
+    margin-top: 73px;
+}
+
+.lima {
+    width: 50px;
+    height: 50px;
+    background-color: magenta;
+    border-radius: 5px;
+    margin-left: 345px;
+    margin-top: 73px;
+}
+
+.beli {
+    width: 300px;
+    height: 20px;
+    background-color: bisque;
+    text-align: center;
+    border: 1px solid;
+    margin-top: 10px;
+    margin-left: 57%;
+}
+
+.beli a {
+    text-decoration: none;
+    color: lightslategray;
+    font-style: italic;
+}
+
+.beli a:hover {
+    background-color: red;
+    color: black;
+}
+
+.atas {
+    font-size: 35px;
+    margin-left: 57%;
+    margin-top: 70px;
+    font-weight: bold;
+}
+
+.harga {
+    font-size: 15px;
+    margin-left: 57%;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+.about {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-left: 57%;
+}
+
+.paragraf1 {
+    margin-left: 57%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.paragraf2 {
+    margin-left: 57%;
+    margin-top: 10px;
+}
+
+.footer {
+    width: 100%;
+    height: 400px;
+    background-color: tan;
+    margin-top: 70px;
+}
+
+.footer .title-footer {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 45%;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+.overview {
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 70px;
+    font-size: 15px;
+}
+
+.overview a:hover {
+    background-color: bisque;
+    color: black;
+}
+
+.overview a {
+    text-decoration: none;
+    color: bisque;
+}
+
+.company {
+    display: inline-block;
+    margin-left: 500px;
+    margin-top: 70px;
+    font-size: 15px;
+}
+
+.company a:hover {
+    text-decoration: none;
+    background-color: bisque;
+    color: black;
+}
+
+.company a {
+    text-decoration: none;
+    color: bisque;
+}
+
+.explore {
+    display: inline-block;
+    margin-left: 550px;
+    font-size: 15px;
+}
+
+.explore a:hover {
+    text-decoration: none;
+    background-color: bisque;
+    color: black;
+}
+
+.explore a {
+    text-decoration: none;
+    color: bisque;
+}
